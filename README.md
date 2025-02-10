@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat Personalizado" width="200"/>
-  <h1>Olá, me chamo João Victor! 👨💻🚀</h1>
+  <img src="img/dev.gif" alt="Gif digitando no teclado" width="200"/>
+  <h1>Olá, me chamo João Victor! 💻🚀</h1>
   <p>
     <a href="https://www.linkedin.com/in/joaovictorinacio">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,7 +11,7 @@
   </p>
 </div>
 
-## 🧑🚀 Sobre Mim
+## 💻🚀 Sobre Mim
 ```javascript
 const dev = {
   nome: "João Victor",
@@ -47,10 +47,10 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
 ---
 
 ## 🚀 Projetos em Destaque
-| [**Projeto 1**](https://github.com/J-Inacio/calculadoraJS-oneBitCode) | [**Projeto 2**](https://github.com/J-Inacio/to-do-list) | [**Projeto 3**](https://github.com/GasFinder1/GasFinder) |
+| [**Calc JS**](https://github.com/J-Inacio/calculadoraJS-oneBitCode) | [**To-do List**](https://github.com/J-Inacio/to-do-list) | [**GasFinder**](https://github.com/GasFinder1/GasFinder) |
 | :---: | :---: | :---: |
-| <img src="img/calc.png" width="200"> | <img src="img/todo.png" width="200"> | <img src="img/dev.gif" width="200"> |
-| Calculadora | Lista de tarefas | GasFinder |
+| <img src="img/calc.png" width="200"> | <img src="img/todo.png" width="200"> | <img src="img/gasfinder.png" width="200"> |
+| Calculadora em JS | Lista de tarefas em JS | Encontra e consulta preço dos combustíveis |
 
 ---
 
@@ -59,5 +59,3 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
   <img src="https://github-readme-stats.vercel.app/api?username=J-Inacio&show_icons=true&theme=radical" alt="Estatísticas" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Inacio&layout=compact&theme=radical" alt="Linguagens" height="160"/>
 </div>
-
-![Snake animation](https://github.com/J-Inacio/J-Inacio/blob/output/github-contribution-grid-snake.svg)

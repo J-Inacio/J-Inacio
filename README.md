@@ -11,13 +11,14 @@
   </p>
 </div>
 
-## 💻🚀 Sobre Mim
+## 💻👇 Sobre Mim
 ```javascript
 const dev = {
   nome: "João Victor",
   stack: "Front-End",
+  formacao: "Técnico em Desenvolvimento de Sistemas 🎓",
   foco: "Aprender novas tecnologias e obter mais experiência na área",
-  hobbies: ["Café ☕", "Jogos 🎮", "Pixel art 👾"],
+  hobbies: ["Café ☕", "Jogos 🎮", "Animes 👾"],
   meta: "Desenvolver soluções criativas e escaláveis"
 };
 

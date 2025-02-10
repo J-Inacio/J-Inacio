@@ -56,14 +56,12 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
 ---
 
 ## 🚀 Projetos em Destaque
-<div align="center">
 
 | [**Calc JS**](https://github.com/J-Inacio/calculadoraJS-oneBitCode) | [**To-do List**](https://github.com/J-Inacio/to-do-list) | [**GasFinder**](https://github.com/GasFinder1/GasFinder) |
 | :---: | :---: | :---: |
 | <img src="img/calc.png" width="200"> | <img src="img/todo.png" width="200"> | <img src="img/gasfinder.png" width="200"> |
 | Calculadora em JS | Lista de tarefas em JS | Encontra e consulta preço dos combustíveis |
 
-</div>
 
 ---
 

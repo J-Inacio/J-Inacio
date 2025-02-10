@@ -2,10 +2,10 @@
   <img src="img/dev.gif" alt="Gif digitando no teclado" width="200"/>
   <h1>Olá, me chamo João Victor! 💻🚀</h1>
   <p>
-    <a href="https://www.linkedin.com/in/joaovictorinacio">
+    <a href="https://www.linkedin.com/in/joaovictorinacio" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:j.inacio.s@hotmail.com">
+    <a href="mailto:j.inacio.s@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
@@ -17,7 +17,7 @@ const dev = {
   nome: "João Victor",
   stack: "Front-End",
   foco: "Aprender novas tecnologias e obter mais experiência na área",
-  hobbies: ["Café ☕", "Jogos retro 🎮", "Pixel art 👾"],
+  hobbies: ["Café ☕", "Jogos 🎮", "Pixel art 👾"],
   meta: "Desenvolver soluções criativas e escaláveis"
 };
 
@@ -29,6 +29,9 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
@@ -42,15 +45,25 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
   <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>      
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>      
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>      
+  </a>
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
+<div align="center">
+
 | [**Calc JS**](https://github.com/J-Inacio/calculadoraJS-oneBitCode) | [**To-do List**](https://github.com/J-Inacio/to-do-list) | [**GasFinder**](https://github.com/GasFinder1/GasFinder) |
 | :---: | :---: | :---: |
 | <img src="img/calc.png" width="200"> | <img src="img/todo.png" width="200"> | <img src="img/gasfinder.png" width="200"> |
 | Calculadora em JS | Lista de tarefas em JS | Encontra e consulta preço dos combustíveis |
+
+</div>
 
 ---
 

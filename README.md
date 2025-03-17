@@ -19,7 +19,7 @@ const dev = {
   formacao: "Técnico em Desenvolvimento de Sistemas 🎓",
   foco: "Aprender novas tecnologias e obter mais experiência na área",
   hobbies: ["Café ☕", "Jogos 🎮", "Animes 👾"],
-  meta: "Desenvolver soluções criativas e escaláveis"
+  meta: "Desenvolver soluções criativas e escaláveis com a programação"
 };
 
 console.log(`👋 ${dev.nome} | ${dev.stack}`);

@@ -58,10 +58,10 @@ console.log(`👋 ${dev.nome} | ${dev.stack}`);
 
 ## 🚀 Projetos em Destaque
 
-| [**Calc JS**](https://github.com/J-Inacio/calculadoraJS-oneBitCode) | [**To-do List**](https://github.com/J-Inacio/to-do-list) | [**GasFinder**](https://github.com/J-Inacio/GasFinder) |
+| [**Landing Page Psicoser**](https://github.com/J-Inacio/psicoser) | [**To-do List**](https://github.com/J-Inacio/to-do-list) | [**GasFinder**](https://github.com/J-Inacio/GasFinder) |
 | :---: | :---: | :---: |
-| <img src="img/calc.png" width="250"> | <img src="img/todo.png" width="250"> | <img src="img/gasfinder.png" width="200"> |
-| Calculadora em JS | Lista de tarefas em JS | Encontra e consulta preço dos combustíveis |
+| <img src="img/psico.png" width="250"> | <img src="img/todo.png" width="250"> | <img src="img/gasfinder.png" width="200"> |
+| Landing Page Consultório Psicológico | Lista de tarefas em JS | Encontra e consulta preço dos combustíveis |
 
 
 ---

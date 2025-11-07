@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/dev.gif" alt="Gif digitando no teclado" width="200"/>
-  <h1>Olá, me chamo João Victor! 💻🚀</h1>
+  <h1>Olá, me chamo <a href="https://portfolio-joao-victor-inacio.vercel.app/" target="_blank" >João Victor!</a> 💻🚀</h1>
   <p>
     <a href="https://www.linkedin.com/in/joaovictorinacio" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -14,11 +14,10 @@
 ## 💻👇 Sobre Mim
 ```javascript
 const dev = {
-  nome: "João Victor",
+  nome: "João Victor Inácio",
   stack: "Front-End",
   formacao: "Técnico em Desenvolvimento de Sistemas 🎓",
   foco: "Aprender novas tecnologias e obter mais experiência na área",
-  hobbies: ["Café ☕", "Jogos 🎮", "Animes 👾"],
   meta: "Desenvolver soluções criativas e escaláveis com a programação"
 };
 

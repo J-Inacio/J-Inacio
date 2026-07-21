@@ -24,9 +24,9 @@
     <td width="70%" valign="top">
       <h3>Connect with me!</h3> 
       <p>Sinta-se à vontade para entrar em contato comigo para parcerias, projetos ou apenas para um bate-papo sobre tecnologia!</p>
-      <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-012a4a?style=for-the-badge&logo=linkedin&logoColor=d6e2e9" alt="LinkedIn"></a>
-      <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Email-012a4a?style=for-the-badge&logo=gmail&logoColor=d6e2e9" alt="Email"></a>
-      <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-012a4a?style=for-the-badge&logo=vercel&logoColor=d6e2e9" alt="Portfolio"></a>
+      <a href="https://linkedin.com/in/joaovictorinacio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-012a4a?style=for-the-badge&logo=linkedin&logoColor=d6e2e9" alt="LinkedIn"></a>
+      <a href="mailto:j.inacio.s@hotmail.com"><img src="https://img.shields.io/badge/Email-012a4a?style=for-the-badge&logo=gmail&logoColor=d6e2e9" alt="Email"></a>
+      <a href="https://portfolio-joao-victor-inacio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-012a4a?style=for-the-badge&logo=vercel&logoColor=d6e2e9" alt="Portfolio"></a>
     </td>
     <td width="30%" align="center">
       <img src="https://64.media.tumblr.com/f48f96d8aea3793c8cdf84ac2076bbab/37d5be454c29a95d-ca/s1280x1920/35c2d46ff44fa30d2b179184936fffada1398774.gifv" alt="Gif Animado" />

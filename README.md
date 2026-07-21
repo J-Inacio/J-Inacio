@@ -140,9 +140,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <h3>Obrigado por visitar meu perfil! 👾</h3>
-</div>
